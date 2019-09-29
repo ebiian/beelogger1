@@ -11,3 +11,5 @@ Kalib_Bitwert  =  1651
 APN[] PROGMEM = {"webapn.at"
 serverName[] PROGMEM = "testsystem.beelogger.de"
 beelogger_pfad[] PROGMEM = {"GET /ebiian/beelogger1/beelogger_log.php?"}
+
+githubtest2
