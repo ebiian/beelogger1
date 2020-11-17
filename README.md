@@ -14,4 +14,4 @@ beelogger_pfad[] PROGMEM = {"GET /ebiian/beelogger1/beelogger_log.php?"}
 
 githubtest2
 
-16.11.2020 flash new
+17.11.2020 flash new mit GSM_MULTI_201108_waage1_ce17112020
