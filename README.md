@@ -13,3 +13,5 @@ serverName[] PROGMEM = "testsystem.beelogger.de"
 beelogger_pfad[] PROGMEM = {"GET /ebiian/beelogger1/beelogger_log.php?"}
 
 githubtest2
+
+16.11.2020 flash new
